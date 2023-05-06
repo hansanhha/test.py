@@ -1,0 +1,1 @@
+질문 리스트 : [OPEN TRIVIA DATABASE](https://opentdb.com/) 사이트 사용
