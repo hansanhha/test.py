@@ -1,2 +1,2 @@
 # test.py
-mini python project
+미니 파이썬 프로젝트 모음
